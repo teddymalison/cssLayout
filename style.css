@@ -1,0 +1,51 @@
+.catBox {
+  width: 300px;
+  display: inline-block;
+  font-size: medium;
+  position: relative;
+}
+
+.catBox img {
+  border-radius: 5px;
+}
+
+#mainContent {
+  margin:0 4.5%;
+  font-size: 8px;
+  color: white;
+}
+
+#heading {
+ font-size: medium;
+}
+
+#heading h1 {
+ margin: 0;
+ border-bottom: 1px solid;
+}
+
+#topNavBar {
+  text-align: right;
+  color: gray;
+}
+
+#topNavBar a {
+  color: gray;
+}
+
+body {
+  background-color: black;
+  font-family: sans-serif;
+}
+
+.caption {
+  position: absolute;
+  top: 268px;
+  text-align: center;
+  width: 298px;
+  margin: 0 1px;
+  height:30px;
+  background-color: black;
+  opacity: .7;
+  border-radius: 10px;
+}
